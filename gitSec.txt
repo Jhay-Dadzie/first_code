@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main() {
+    int fnum,snum;
+    int tnum = fnum * snum;
+    cout << tnum;
+    return 0;
+}
