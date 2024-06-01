@@ -4,5 +4,6 @@ int main() {
     int fnum,snum;
     int tnum = fnum * snum;
     cout << tnum;
+    cout << fnum/snum;
     return 0;
 }
